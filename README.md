@@ -14,10 +14,10 @@ The dataset  TFL Bus Safety has been used to build the visualisation. It consist
 Summary :
 
 
-The story analyses various aspects of the data such as :
+The story is used to analyse various aspects of the number of incidents on the London Bus network. They are listed below :
 1.	Count of the event types based on the routes – This tells us which route has the most number of incidents reported.
 2.	Frequent injuries per month – This tells us about the Incident types which are the most frequent in each month of the year.
-3.	Gender which gets injured more frequently – This determines the gender which gets most frequently injured by bus accidents.
+3.	Gender which gets injured more frequently – This determines the gender which gets injured most frequently by bus accidents.
 4.	Trend of rate of injuries with time.
 
 The complete story can be accessed from the packaged workbook TableauTFLBusSafety.twbx.
